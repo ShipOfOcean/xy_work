@@ -1,0 +1,6 @@
+[submodule "xy_work/data/template/config"]
+	path = xy_work/data/template/config
+	url = http://8.135.31.13:6402/beachstudio/opensource/xy/development/work/xy_work/template/xy_work.git
+[submodule "xy_work/data/template/runner"]
+	path = xy_work/data/template/runner
+	url = http://8.135.31.13:6402/beachstudio/opensource/xy/development/work/xy_work/template/xy_work_runner.git
